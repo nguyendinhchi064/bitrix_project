@@ -1,13 +1,18 @@
 # bitrix_project
 AASC test 
+
 (Ex 1 -- Done; Ex 2 --- Missing Requisites -> can't add address or bank name, account and website url in bitrix24)
+
 Requirements:
+
 1. POSTMAN
 2. Python 3.9.13
 3. IDE like VS code or VS
 
 Because this project is a test so I don't need to ignore my .env file. These are steps to run my project
+
 Steps to run this project:
+
 1. Create  virtual environment: py -m venv venv
 2. Go to virtual environment and activate it: cd venv/Scripts/activate or .\venv\Scripts\activate
 3. Download requirements: pip install -r requirements.txt 
@@ -15,6 +20,7 @@ Check if it download full, you can runserver freely: py manage.py runserver
 If you run server success, run the ngrok: ngrok http 8000 
 
 -------------------WARNINGS!!!--------------------------
+
 If you use other bitrix24 account, remember to change file .env:
 
 BITRIX24_CLIENT_ID = 'client_id'  ----- when you create local application
