@@ -1,0 +1,1891 @@
+Not Found: /i
+Bad Request: /install/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /install/
+Watching for file changes with StatReloader
+Callback received. Method: GET
+POST data: <QueryDict: {}>
+GET data: <QueryDict: {}>
+Invalid request method
+Bad Request: /auth/callback/
+Bad Request: /install/
+Bad Request: /install/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /install/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /install/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Install event triggered. Method: GET
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': 'cbcf-42-114-185-128.ngrok-free.app', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-US,en;q=0.9', 'Cache-Control': 'max-age=0', 'Cookie': 'abuse_interstitial=cbcf-42-114-185-128.ngrok-free.app', 'Priority': 'u=0, i', 'Sec-Ch-Ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Microsoft Edge";v="134"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1', 'Upgrade-Insecure-Requests': '1', 'X-Forwarded-For': '42.114.185.128', 'X-Forwarded-Host': 'cbcf-42-114-185-128.ngrok-free.app', 'X-Forwarded-Proto': 'https'}
+Request body: No body
+GET data: <QueryDict: {}>
+POST data: <QueryDict: {}>
+Install event triggered. Method: GET
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': 'cbcf-42-114-185-128.ngrok-free.app', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-US,en;q=0.9', 'Cache-Control': 'max-age=0', 'Cookie': 'abuse_interstitial=cbcf-42-114-185-128.ngrok-free.app', 'Priority': 'u=0, i', 'Sec-Ch-Ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Microsoft Edge";v="134"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1', 'Upgrade-Insecure-Requests': '1', 'X-Forwarded-For': '42.114.185.128', 'X-Forwarded-Host': 'cbcf-42-114-185-128.ngrok-free.app', 'X-Forwarded-Proto': 'https'}
+Request body: No body
+GET data: <QueryDict: {}>
+POST data: <QueryDict: {}>
+Install event triggered. Method: GET
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': 'cbcf-42-114-185-128.ngrok-free.app', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-US,en;q=0.9', 'Cache-Control': 'max-age=0', 'Cookie': 'abuse_interstitial=cbcf-42-114-185-128.ngrok-free.app', 'Priority': 'u=0, i', 'Sec-Ch-Ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Microsoft Edge";v="134"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1', 'Upgrade-Insecure-Requests': '1', 'X-Forwarded-For': '42.114.185.128', 'X-Forwarded-Host': 'cbcf-42-114-185-128.ngrok-free.app', 'X-Forwarded-Proto': 'https'}
+Request body: No body
+GET data: <QueryDict: {}>
+POST data: <QueryDict: {}>
+Watching for file changes with StatReloader
+Install event triggered. Method: GET
+Headers: {'Content-Length': '', 'Content-Type': 'text/plain', 'Host': 'cbcf-42-114-185-128.ngrok-free.app', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-US,en;q=0.9', 'Cache-Control': 'max-age=0', 'Cookie': 'abuse_interstitial=cbcf-42-114-185-128.ngrok-free.app', 'Priority': 'u=0, i', 'Sec-Ch-Ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Microsoft Edge";v="134"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1', 'Upgrade-Insecure-Requests': '1', 'X-Forwarded-For': '42.114.185.128', 'X-Forwarded-Host': 'cbcf-42-114-185-128.ngrok-free.app', 'X-Forwarded-Proto': 'https'}
+Request body: No body
+GET data: <QueryDict: {}>
+POST data: <QueryDict: {}>
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /call_api/
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '0bea-113-23-75-239.ngrok-free.app'. You may need to add '0bea-113-23-75-239.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Watching for file changes with StatReloader
+Not Found: /
+Method Not Allowed: /call_api/
+Not Found: /
+Not Found: /favicon.ico
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden (Origin checking failed - https://0bea-113-23-75-239.ngrok-free.app does not match any trusted origins.): /admin/login/
+Watching for file changes with StatReloader
+Forbidden (Origin checking failed - https://0bea-113-23-75-239.ngrok-free.app does not match any trusted origins.): /admin/login/
+Internal Server Error: /admin/oauth_bitrix/bitrixtoken/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\AASC\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such column: oauth_bitrix_bitrixtoken.expires_at
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\contrib\admin\options.py", line 2065, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "D:\AASC\venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "D:\AASC\venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\AASC\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "D:\AASC\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\AASC\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "D:\AASC\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "D:\AASC\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\AASC\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\AASC\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\AASC\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\AASC\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such column: oauth_bitrix_bitrixtoken.expires_at
+Watching for file changes with StatReloader
+Method Not Allowed: /install/
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Method Not Allowed: /install/
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /call_api/
+Unauthorized: /call_api/
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /call_api/
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Unauthorized: /call_api/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /call_api/
+Watching for file changes with StatReloader
+Bad Request: /install/
+Bad Request: /install/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/app-medical/v1/medical-device/
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 144, in contact_list
+    return render(request, 'templates/contact_list.html', {'contacts': contacts})
+  File "D:\AASC\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\AASC\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\AASC\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: templates/contact_list.html
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 144, in contact_list
+    return render(request, 'bitrix_project/oauth_bitrix/templates/contact_list.html', {'contacts': contacts})
+  File "D:\AASC\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\AASC\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\AASC\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bitrix_project/oauth_bitrix/templates/contact_list.html
+D:\AASC\bitrix_project\bitrix_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /contact/new/
+Not Found: /contact/new/
+Not Found: /
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+Invalid HTTP_HOST header: 'b124-113-23-75-174.ngrok-free.app'. You may need to add 'b124-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'b124-113-23-75-174.ngrok-free.app'. You may need to add 'b124-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: 'b124-113-23-75-174.ngrok-free.app'. You may need to add 'b124-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'b124-113-23-75-174.ngrok-free.app'. You may need to add 'b124-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: 'b124-113-23-75-174.ngrok-free.app'. You may need to add 'b124-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'b124-113-23-75-174.ngrok-free.app'. You may need to add 'b124-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: 'b124-113-23-75-174.ngrok-free.app'. You may need to add 'b124-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'b124-113-23-75-174.ngrok-free.app'. You may need to add 'b124-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /install/
+Not Found: /call_api/
+Not Found: /install/
+Watching for file changes with StatReloader
+Not Found: /
+Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /install/
+Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /install/
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+D:\AASC\bitrix_project\bitrix_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /install/
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /install/
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /install/
+Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /install/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'f493-113-23-75-174.ngrok-free.app'. You may need to add 'f493-113-23-75-174.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /install/
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Forbidden (Origin checking failed - https://f493-113-23-75-174.ngrok-free.app does not match any trusted origins.): /admin/login/
+Forbidden (Origin checking failed - https://f493-113-23-75-174.ngrok-free.app does not match any trusted origins.): /admin/login/
+Forbidden (Origin checking failed - https://f493-113-23-75-174.ngrok-free.app does not match any trusted origins.): /admin/login/
+Forbidden (Origin checking failed - https://f493-113-23-75-174.ngrok-free.app does not match any trusted origins.): /admin/login/
+Forbidden (Origin checking failed - https://f493-113-23-75-174.ngrok-free.app does not match any trusted origins.): /admin/login/
+Watching for file changes with StatReloader
+Forbidden (Origin checking failed - https://f493-113-23-75-174.ngrok-free.app does not match any trusted origins.): /admin/login/
+Forbidden (Origin checking failed - https://f493-113-23-75-174.ngrok-free.app does not match any trusted origins.): /contact/new/
+Unauthorized: /contact/new/
+Unauthorized: /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contact/new/
+Unauthorized: /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/new/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 191, in contact_create
+    domain = settings.BITRIX_DOMAIN  # Make sure this is dynamically set
+  File "D:\AASC\venv\lib\site-packages\django\conf\__init__.py", line 104, in __getattr__
+    val = getattr(_wrapped, name)
+AttributeError: 'Settings' object has no attribute 'BITRIX_DOMAIN'
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /contact/new/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\requests\models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 199, in contact_create
+    response = add_bitrix_contact(domain, access_token, contact_data)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 180, in add_bitrix_contact
+    return response.json()  # Return success response
+  File "D:\AASC\venv\lib\site-packages\requests\models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Bad Request: /contact/new/
+Bad Request: /contact/new/
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contact/new/
+Unauthorized: /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contact/new/
+Watching for file changes with StatReloader
+Unauthorized: /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '3fbe-113-23-123-149.ngrok-free.app'. You may need to add '3fbe-113-23-123-149.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '3fbe-113-23-123-149.ngrok-free.app'. You may need to add '3fbe-113-23-123-149.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /install/
+D:\AASC\bitrix_project\bitrix_project\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Not Found: /contacts
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /contacts/
+Method Not Allowed: /call_api/
+Bad Request: /contacts/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /contacts/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /contacts/
+Bad Request: /contacts/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /contacts/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/new
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 3fbe-113-23-123-149.ngrok-free.app/contact/new/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+Forbidden (CSRF cookie not set.): /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden (CSRF token missing.): /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /rest/crm.contact.add.json
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '53da-113-23-123-149.ngrok-free.app'. You may need to add '53da-113-23-123-149.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\AASC\venv\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\AASC\venv\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '53da-113-23-123-149.ngrok-free.app'. You may need to add '53da-113-23-123-149.ngrok-free.app' to ALLOWED_HOSTS.
+Bad Request: /install/
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\forms.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\forms.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/new/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view oauth_bitrix.views.create_contact didn't return an HttpResponse object. It returned None instead.
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/new/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view oauth_bitrix.views.create_contact didn't return an HttpResponse object. It returned None instead.
+Not Found: /contact_form.html
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /contact_form.html
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /create_contact/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\requests\models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 240, in create_contact
+    contact_id = response.json()['data']
+  File "D:\AASC\venv\lib\site-packages\requests\models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Watching for file changes with StatReloader
+Internal Server Error: /create_contact/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\requests\models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 240, in create_contact
+    contact_id = response.json()['data']
+  File "D:\AASC\venv\lib\site-packages\requests\models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Internal Server Error: /create_contact/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\requests\models.py", line 974, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "C:\Program Files\Python39\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Python39\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Python39\lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 240, in create_contact
+    contact_id = response.json()['data']
+  File "D:\AASC\venv\lib\site-packages\requests\models.py", line 978, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden (CSRF token missing.): /contact/new/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /get_requisite_types/
+Not Found: /get_requisite_types/
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /contacts_list
+Internal Server Error: /contacts/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 179, in contact_list
+    token = get_valid_token(domain)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 92, in get_valid_token
+    return refresh_token_for_domain(domain)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 78, in refresh_token_for_domain
+    token.expires_at = timezone.now() + timezone.timedelta(seconds=response_data.get('expires_in'))
+TypeError: unsupported type for timedelta seconds component: NoneType
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contacts/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 178, in contact_list
+    token = get_valid_token(domain)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 92, in get_valid_token
+    return refresh_token_for_domain(domain)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 78, in refresh_token_for_domain
+    token.expires_at = timezone.now() + timezone.timedelta(seconds=response_data.get('expires_in'))
+TypeError: unsupported type for timedelta seconds component: NoneType
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contacts/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\models.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\models.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contacts/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /contacts/
+Watching for file changes with StatReloader
+Unauthorized: /contacts/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/104/delete/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+TypeError: contact_delete() got an unexpected keyword argument 'pk'
+Not Found: /contact/delete/
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /contact/delete/
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/104/delete/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+TypeError: contact_delete() got an unexpected keyword argument 'pk'
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/104/delete/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+TypeError: contact_delete() got an unexpected keyword argument 'int'
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/104/delete/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+TypeError: contact_delete() got an unexpected keyword argument 'pk'
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/104/delete/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+TypeError: contact_delete() got an unexpected keyword argument 'pk'
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /contact/104/delete/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+TypeError: contact_delete() got an unexpected keyword argument 'pk'
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Method Not Allowed: /contact/104/delete/
+Method Not Allowed: /contact/114/delete/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Method Not Allowed: /contact/114/delete/
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Method Not Allowed: /contact/114/delete/
+Method Not Allowed: /contact/114/delete/
+Not Found: /contact//delete/
+Internal Server Error: /contact/114/delete/
+Traceback (most recent call last):
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\AASC\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\AASC\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "D:\AASC\bitrix_project\oauth_bitrix\views.py", line 358, in contact_delete
+    'Authorization': f'Bearer {settings.BITRIX24_CONFIG["ACCESS_TOKEN"]}'  # Replace with your access token or retrieve dynamically
+KeyError: 'ACCESS_TOKEN'
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /contact/116/update/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /contact/116/update/
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /contact/116/update/
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /contact/116/update/
+Not Found: /contact/120/update/
+Not Found: /contact/120/update/
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\urls.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\AASC\bitrix_project\oauth_bitrix\views.py changed, reloading.
+Watching for file changes with StatReloader

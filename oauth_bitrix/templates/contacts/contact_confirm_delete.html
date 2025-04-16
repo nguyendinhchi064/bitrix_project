@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Contact</title>
+</head>
+<body>
+    <h1>Delete Contact</h1>
+    <!-- Form to delete contact -->
+    <form id="form_to_delete_contact" method="POST">
+        {% csrf_token %}
+        <p>Are you sure you want to delete contact <strong>{{ contact.name }}</strong>?</p>
+        <input type="text" name="contact_id" value="{{ contact.id }}">
+        <input type="submit" value="Yes, Delete">
+    </form>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#form_to_delete_contact').on('submit', function(el) {
+                el.preventDefault(); 
+
+                var csrftoken = $('input[name=csrfmiddlewaretoken]').val(); 
+                var formData = $(this).serialize(); 
+
+                var contactId = $('input[name="contact_id"]').val();
+
+                $.ajax({
+                    method: 'POST',
+                    url: '/contact/' + contactId + '/delete/',  
+                    data: formData, 
+                    headers: {
+                        'X-CSRFToken': csrftoken 
+                    },
+                    success: function(response) {
+                        alert(response.message);  // Show success message on deletion
+                        window.location.href = "/contacts/";  // Redirect to contact list after deletion
+                    },
+                    error: function(xhr, status, error) {
+                        console.error("Error: " + error);  // Log errors to console
+                        alert("Error deleting contact!");
+                    }
+                });
+            });
+        });
+    </script>  
+</body>
+</html>

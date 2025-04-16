@@ -1,0 +1,55 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Contact</title>
+</head>
+<body>
+    <h1>Create Contact</h1>
+    <!-- Form to create contact -->
+    <form id="form_to_crm" method="POST">
+        {% csrf_token %}
+        <input type="text" name="NAME" placeholder="Name" required>
+        <input type="text" name="PHONE" placeholder="Phone">
+        <input type="text" name="EMAIL" placeholder="Email">
+        <input type="url" name="WEBSITE" placeholder="Website">
+        <input type="text" name="ADDRESS[ADDRESS_1]" placeholder="Street Address" required>
+        <input type="text" name="ADDRESS[CITY]" placeholder="City" required>
+        <input type="text" name="ADDRESS[POSTAL_CODE]" placeholder="Postal Code" required>
+        <input type="text" name="ADDRESS[PROVINCE]" placeholder="Province" required>
+        <input type="text" name="ADDRESS[COUNTRY]" placeholder="Country" required>
+        <input type="text" name="ADDRESS[COUNTRY_CODE]" placeholder="Country Code" required>
+        <input type="text" name="BANK_NAME" placeholder="Bank Name" required>
+        <input type="text" name="BANK_ACCOUNT" placeholder="Bank Account Number" required>
+        <input type="submit" value="Submit">
+    </form>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#form_to_crm').on('submit', function(el) {
+                el.preventDefault(); 
+
+                var csrftoken = $('input[name=csrfmiddlewaretoken]').val(); 
+                var formData = $(this).serialize();  
+
+                // Sử dụng AJAX để gửi dữ liệu
+                $.ajax({
+                    method: 'POST',
+                    url: '/create_contact/',  // Endpoint Django để xử lý dữ liệu
+                    data: formData,  // Dữ liệu được serialize
+                    headers: {
+                        'X-CSRFToken': csrftoken 
+                    },
+                    success: function(response) {
+                        alert(response.message);  
+                    },
+                    error: function(xhr, status, error) {
+                        console.error("Error: " + error); 
+                    }
+                });
+            });
+        });
+    </script>    
+</body>
+</html>

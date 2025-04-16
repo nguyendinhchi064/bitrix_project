@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacts List</title>
+</head>
+<body>
+    <h1>Bitrix24 Contacts List</h1>
+
+    {% if contacts %}
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Email</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for contact in contacts %}
+                    <tr>
+                        <td>{{ contact.ID }}</td>
+                        <td>{{ contact.NAME }} {{ contact.LAST_NAME }}</td>
+                        <td>
+                            {% if contact.PHONE %}
+                                {{ contact.PHONE.0.VALUE }}
+                            {% else %}
+                                No phone
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if contact.EMAIL %}
+                                {{ contact.EMAIL.0.VALUE }}
+                            {% else %}
+                                No email
+                            {% endif %}
+                        </td>
+                        <td>{{ contact.ADDRESS }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p>No contacts found.</p>
+    {% endif %}
+</body>
+</html>
