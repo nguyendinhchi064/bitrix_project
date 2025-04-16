@@ -24,9 +24,13 @@ If you run server success, run the ngrok: ngrok http 8000
 If you use other bitrix24 account, remember to change file .env:
 
 BITRIX24_CLIENT_ID = 'client_id'  ----- when you create local application
+
 BITRIX24_CLIENT_SECRET = 'client_secret' ------- when you create local application
+
 BITRIX_DOMAIN = 'Unknown.bitrix24.vn' ------ If you use other bitrix24 account change this
+
 NGROK_URL = 'https://domain_ngrok'  ------- Need to change urls each time you run in ngrok (in website bitrix24 too)
+
 ALLOWED_HOSTS= domain_ngrok,localhost,127.0.0.1
 
 If you see error ALLOWED_HOSTS, you can try reinstall the local application from developer resources in bitrix24 again
